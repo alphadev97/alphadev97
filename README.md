@@ -1,28 +1,87 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
-<h3 align="center">A Passionate Frontend Web Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<div align="center">
+  <img height="200" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif"  />
+</div>
 
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaweb&label=Profile%20views&color=0e75b6&style=flat" alt="usamaweb" /> </p>
+<h1 align="center">HI, I AM MUHAMMAD USAMA</h1>
 
-- 🔭 I’m currently working in **GT Solutions USA & BlueTech International**
+###
 
-- 📫 How to reach me **muhammadusama30289@gmail.com**
+<p align="left">As a front-end web developer, I specialize in creating intuitive and visually stunning websites and web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I am always seeking to improve my skills and stay up-to-date on the latest industry trends. I am a problem-solver and a creative thinker, and I take pride in delivering high-quality projects that exceed my clients' expectations. Whether I'm working on a small personal project or a large-scale collaboration, I am committed to delivering exceptional results.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/usamaweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usamaweb" height="30" width="40" /></a>
-<a href="https://fb.com/usamadev97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamadev97" height="30" width="40" /></a>
-<a href="https://instagram.com/musama01official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musama01official" height="30" width="40" /></a>
-<a href="https://www.behance.net/musamaweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="musamaweb" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h2 align="center">Profile Stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamaweb&show_icons=true&locale=en&layout=compact" alt="usamaweb" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaweb&show_icons=true&locale=en" alt="usamaweb" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=usamaweb" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=usamaweb" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaweb&" alt="usamaweb" /></p>
+###
+
+<h2 align="center">Languages & Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="center">Profile Views</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/usamaweb/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/usamaweb/usamaweb/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Connect with me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.facebook.com/usamadev97" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/musama01official/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/usamaweb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/musamaweb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
