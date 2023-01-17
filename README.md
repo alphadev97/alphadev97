@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaweb&label=Profile%20views&color=0e75b6&style=flat" alt="usamaweb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaweb" alt="usamaweb" /></a> </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
@@ -33,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamaweb&show_icons=true&locale=en" alt="usamaweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaweb&" alt="usamaweb" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamaweb" alt="usamaweb" /></a> </p>
