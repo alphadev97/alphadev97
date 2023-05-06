@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaweb&label=Profile%20views&color=0e75b6&style=flat" alt="usamaweb" /> </p>
 
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/usamaweb](https://github.com/usamaweb)
+- 👨‍💻 All of my projects are available at [https://github.com/usamaweb](https://github.com/usamadev97)
 
 - 💬 Ask me about **JavaScript**
 
