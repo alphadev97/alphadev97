@@ -6,7 +6,7 @@
 
 **`Software Engineer`**
 
-👋 Hey there! I'm Muhammad Usama, a software engineer specializing in MERN and PERN stacks. I work with JavaScript, React, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. Passionate about creating helpful applications and assisting fellow developers. Let's connect and build impactful software solutions together.
+👋 Hey there! I'm Muhammad Usama, a software engineer specializing in MERN and PERN stacks. I work with TypeScript, JavaScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. Passionate about creating helpful applications and assisting fellow developers. Let's connect and build impactful software solutions together.
 
 </div>
 
@@ -24,6 +24,7 @@
 <div align="center">
   <h2 style="font-size: 35px;">📙 Languages and Tools</h2>
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
