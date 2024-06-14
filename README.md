@@ -4,9 +4,9 @@
 
 <h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; color: #0FF0FC; font-weight: bold; text-shadow: 2px 2px 5px #0ff0fcbe;"> Muhammad Usama </h1>
 
-**`Software Engineer`**
+**`Full Stack Software Engineer`**
 
-👋 Hey there! I'm Muhammad Usama, a software engineer specializing in MERN and PERN stacks. I work with TypeScript, JavaScript, React, Next.js, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. Passionate about creating helpful applications and assisting fellow developers. Let's connect and build impactful software solutions together.
+👋 Hey there! I'm Muhammad Usama, Full Stack Software Engineer specializing in JavaScript, TypeScript, Python, Dart, Golang, and C++. Experienced in building web and mobile applications using React, Next.js, Node.js, Express, FastAPI, Flutter, and more. Passionate about open-source contributions and solving real-world problems through technology.
 
 </div>
 
@@ -79,15 +79,97 @@
   <img alt="Coding" width="400" src="https://em-content.zobj.net/source/microsoft-teams/363/wolf_1f43a.png">
 </p>
 
-👋 Hey there! I'm Muhammad Usama, a passionate software engineer with a focus on creating impactful solutions. I specialize in the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks, but my expertise extends to various other frameworks as well.
+# Muhammad Usama
 
-With a love for JavaScript and its powerful ecosystem, I enjoy crafting elegant and efficient code using technologies like React, Redux, Node.js, Express.js, MongoDB, PostgreSQL, and more. As a software engineer, I'm constantly exploring new possibilities and staying up to date with the latest industry trends.
+Hi there! I'm Muhammad Usama, a versatile Full Stack Software Engineer with experience in developing robust and scalable web and mobile applications. My expertise spans a variety of languages and technologies, including JavaScript, TypeScript, Python, Dart, Golang, and C++.
 
-Beyond just writing code, I find immense satisfaction in helping fellow developers and engineers. Whether it's offering guidance, sharing insights, or collaborating on projects, I'm always eager to contribute my knowledge and expertise to support others.
+## Skills and Expertise:
 
-Driven by a goal to create meaningful applications that make a difference in people's lives, I'm passionate about leveraging technology to help and serve others. I believe in the potential of software to solve real-world problems and enhance the human experience.
+**Languages:**
 
-If you're looking for a dedicated collaborator or seeking assistance with your projects, I'm here to help! Let's connect and work together to build innovative software solutions that have a positive impact. Reach out to me, and let's embark on a journey of problem-solving and creativity.
+- JavaScript
+- TypeScript
+- Python
+- Dart
+- Golang
+- C++
+
+**Front-End Development:**
+
+- React
+- Next.js
+- React Native
+- Tailwind CSS
+- Shadcn
+- Material UI
+
+**Back-End Development:**
+
+- Node.js
+- Express
+- FastAPI
+- Flask
+- Django
+
+**Mobile Development:**
+
+- Flutter
+- React Native
+
+**Database Management:**
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- NoSQL
+
+**Tools & Technologies:**
+
+- Git
+- Docker
+- WebSockets
+- Socket.IO
+- WebRTC
+
+**Algorithms and Data Structures:**
+
+- Dijkstra’s Algorithm
+- Merge Sort
+- Bubble Sort
+- Quick Sort
+- Binary Search
+- Graph Theory
+
+## Major Projects:
+
+- **Multi Vendor E-Commerce Web App:** Developed a multi-vendor platform with React and FastAPI, enabling multiple sellers to manage their products and orders.
+- **CRM Web App:** Designed and implemented a CRM system with React and FastAPI to streamline sales, marketing, and customer service operations.
+- **Messaging Mobile & Web App:** Created a cross-platform messaging application with React, React Native, and WebSockets for real-time communication and media sharing.
+- **Video Conferencing App (WebRTC):** Developed a real-time video conferencing application using WebRTC, React, and Node.js, enabling high-quality video and audio communication with features like screen sharing and chat.
+- **Property Listing Web App (MERN Stack):** Developed a feature-rich property listing platform with advanced search and property comparison functionalities.
+- **Twitch Clone (Next.js):** Built a live streaming platform inspired by Twitch, focusing on real-time data handling and server-side rendering.
+- **E-Commerce Web App (MERN Stack):** Created an e-commerce website with user authentication, product listings, shopping cart, and payment integration.
+- **Restaurant Booking Mobile App:** Built a mobile app for restaurant bookings using React Native and Golang, with features like table reservations and menu browsing.
+
+## Professional Experience:
+
+- **GT Solutions USA, Full Stack Developer:** Developed and delivered 50+ full stack web applications.
+- **BlueTech International, Full Stack Developer:** Worked closely with clients to gather requirements and provide technical solutions.
+- **NUST-PENC, IT Specialist:** Managed network control room operations, conducted hardware diagnostics, and performed network troubleshooting.
+
+## Open Source Contributions:
+
+I actively contribute to open-source projects on GitHub, showcasing a collection of applications and demonstrating my commitment to continuous learning and community collaboration.
+
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about innovative tech solutions.
+
+Let's connect and build something amazing together!
+
+## Contact Information:
+
+- **Email:** muhammadusama30289@gmail.com
+- **LinkedIn:** [linkedin.com/in/alpha97](https://www.linkedin.com/in/alpha97/)
+- **Portfolio:** [alpha97_Portfolio](#)
 
 </details>
 
